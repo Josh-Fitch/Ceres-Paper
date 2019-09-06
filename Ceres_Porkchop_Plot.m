@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
-% "CERES CREWED MISSION USING DST" PORKCHOP PLOT
+% "CERES CREWED MISSION" PORKCHOP PLOT
 %
 % Program Description 
 % This program utilizes JPL's HORIZONS Ephemeris data files to locate 
