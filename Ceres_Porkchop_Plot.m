@@ -632,7 +632,6 @@ set(a,'GridLineStyle','- -')
 a.LineWidth = 1.3;
 
 %% PULL RELEVANT DATA FOR CHECKING
-%{
 % set all zeros to NaN to avoid zeros being used as minimums
 
 v_inf(v_inf==0) = NaN;
@@ -967,5 +966,3 @@ data_verification = [c3_min_c3, c3_min_vinf, c3_min_tof;
     vinf_min_vinf, vinf_min_c3, vinf_min_tof;
     vinf_min_return_vinf, vinf_min_return_c3, vinf_min_return_tof];
 %disp(data_verification);
-
-%}
